@@ -1,4 +1,4 @@
-.io/github/license/meowrch/meowrch?color=FCA2AA&labelColor=1C2325&style=for-the-badge">
+<div style="display: flex; flex-wrap: wrap;">
     </a>
     <br>
     <br>
@@ -18,8 +18,8 @@
 ### Данная программа реализует игру "Крестики-нолики" (Tic-Tac-Toe) для двух игроков в консольном режиме на языке C.
 
 <div style="display: flex; flex-wrap: wrap;">
-  <img src="README.png/1.png" alt="Изображение 1" style="height: 300px; margin-right: 10px;">
-  <img src="README.png/2.png" alt="Изображение 2" style="height: 300px; margin-right: 10px;">
+  <img src="README/README.png/1.png" alt="Изображение 1" style="height: 300px; margin-right: 10px;">
+  <img src="README/README.png/2.png" alt="Изображение 2" style="height: 300px; margin-right: 10px;">
 </div>
 
 #### Основные компоненты программы
