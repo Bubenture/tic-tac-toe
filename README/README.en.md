@@ -4,7 +4,7 @@
     </a>
     <br>
     <br>
-    <a href="//README.md">
+    <a href="../README.md">
         <img src="https://img.shields.io/badge/README-RU-blue?color=cba6f7&labelColor=cba6f7&style=for-the-badge">
     </a>
     <a href="README.en.md">
