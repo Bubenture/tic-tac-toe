@@ -14,8 +14,8 @@
 ### This program implements the game "Tic-Tac-Toe" for two players in console mode using the C programming language.
 
 <div style="display: flex; flex-wrap: wrap;">
-  <img src="README/1.png" alt="Image 1" style="height: 300px; margin-right: 10px;">
-  <img src="README/2.png" alt="Image 2" style="height: 300px; margin-right: 10px;">
+  <img src="1.png" alt="Image 1" style="height: 300px; margin-right: 10px;">
+  <img src="2.png" alt="Image 2" style="height: 300px; margin-right: 10px;">
 </div>
 
 #### Main Components of the Program
