@@ -2,7 +2,7 @@
     </a>
     <br>
     <br>
-    <a href="README.md">
+    <a href=".README.md">
         <img src="https://img.shields.io/badge/README-RU-blue?color=cba6f7&labelColor=cba6f7&style=for-the-badge">
     </a>
     <a href="README/README.en.md">
@@ -51,6 +51,3 @@
 
 - The program uses functions to clear the screen and display the current state of the game, including the game board and the number of wins for each player.
 
---- 
-
-Feel free to ask if you need any further assistance!
