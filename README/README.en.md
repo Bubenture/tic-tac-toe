@@ -2,10 +2,10 @@
     </a>
     <br>
     <br>
-    <a href=".README/README.en.md">
+    <a href="README.md">
         <img src="https://img.shields.io/badge/README-RU-blue?color=cba6f7&labelColor=cba6f7&style=for-the-badge">
     </a>
-    <a href=".README.md">
+    <a href="README/README.en.md">
         <img src="https://img.shields.io/badge/README-ENG-blue?color=C9CBFF&labelColor=1C2325&style=for-the-badge">
     </a>
 </div>
@@ -14,8 +14,8 @@
 ### This program implements the game "Tic-Tac-Toe" for two players in console mode using the C programming language.
 
 <div style="display: flex; flex-wrap: wrap;">
-  <img src="README/README.png/1.png" alt="Image 1" style="height: 300px; margin-right: 10px;">
-  <img src="README/README.png/2.png" alt="Image 2" style="height: 300px; margin-right: 10px;">
+  <img src="README/1.png" alt="Image 1" style="height: 300px; margin-right: 10px;">
+  <img src="README/2.png" alt="Image 2" style="height: 300px; margin-right: 10px;">
 </div>
 
 #### Main Components of the Program
