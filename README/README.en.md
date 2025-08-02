@@ -11,6 +11,7 @@
         <img src="https://img.shields.io/badge/README-ENG-blue?color=C9CBFF&labelColor=1C2325&style=for-the-badge">
     </a>
 </div>
+</br>
 
 <div style="display: flex; flex-wrap: wrap;">
   <img src="1.png" alt="Image 1" style="height: 300px; margin-right: 10px;">
