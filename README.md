@@ -1,3 +1,5 @@
+### Данная программа реализует игру "Крестики-нолики" (Tic-Tac-Toe) для двух игроков в консольном режиме на языке C.
+
 <div style="display: flex; flex-wrap: wrap;">
     </a>
     <br>
@@ -9,8 +11,6 @@
         <img src="https://img.shields.io/badge/README-ENG-blue?color=cba6f7&labelColor=cba6f7&style=for-the-badge">
     </a>
 </div>
-
-### Данная программа реализует игру "Крестики-нолики" (Tic-Tac-Toe) для двух игроков в консольном режиме на языке C.
 
 <div style="display: flex; flex-wrap: wrap;">
   <img src="README/1.png" alt="Изображение 1" style="height: 300px; margin-right: 10px;">
