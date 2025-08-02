@@ -3,10 +3,10 @@
     <br>
     <br>
     <a href=".README/README.en.md">
-        <img src="https://img.shields.io/badge/README-ENG-blue?color=C9CBFF&labelColor=1C2325&style=for-the-badge">
+        <img src="https://img.shields.io/badge/README-RU-blue?color=C9CBFF&labelColor=1C2325&style=for-the-badge">
     </a>
     <a href=".README/README.md">
-         <img src="https://img.shields.io/badge/README-RU-blue?color=cba6f7&labelColor=cba6f7&style=for-the-badge">
+        <img src="https://img.shields.io/badge/README-ENG-blue?color=cba6f7&labelColor=cba6f7&style=for-the-badge">
     </a>
 </div>
 
