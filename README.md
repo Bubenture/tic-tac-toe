@@ -13,8 +13,8 @@
 ### Данная программа реализует игру "Крестики-нолики" (Tic-Tac-Toe) для двух игроков в консольном режиме на языке C.
 
 <div style="display: flex; flex-wrap: wrap;">
-  <img src="README/README.png/1.png" alt="Изображение 1" style="height: 300px; margin-right: 10px;">
-  <img src="README/README.png/2.png" alt="Изображение 2" style="height: 300px; margin-right: 10px;">
+  <img src="README/1.png" alt="Изображение 1" style="height: 300px; margin-right: 10px;">
+  <img src="README/2.png" alt="Изображение 2" style="height: 300px; margin-right: 10px;">
 </div>
 
 #### Основные компоненты программы
