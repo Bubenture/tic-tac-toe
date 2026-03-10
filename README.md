@@ -1,15 +1,7 @@
+<a href="README.md"><img width="40" src="https://github.com/Bubenture/Bubenture/blob/main/language/RUon.svg"></a><a href="README/README.en.md"><img width="40" src="https://github.com/Bubenture/Bubenture/blob/main/language/ENGoff.svg"></a>
+</br>
 ### Данная программа реализует игру "Крестики-нолики" (Tic-Tac-Toe) для двух игроков в консольном режиме на языке C.
 
-</br>
-<div>
-    <a href="README.md">
-        <img src="https://img.shields.io/badge/README-RU-blue?color=44944a&labelColor=1C2325&style=for-the-badge">
-    </a>
-    <a href="README/README.en.md">
-        <img src="https://img.shields.io/badge/README-ENG-blue?color=006400&labelColor=006400&style=for-the-badge">
-    </a>
-</div>
-</br>
 
 <div style="display: flex; flex-wrap: wrap;">
   <img src="README/1.png" alt="Изображение 1" style="height: 300px; margin-right: 10px;">
